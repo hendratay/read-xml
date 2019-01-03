@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="name">Breakfast</string>
+    <string name="description">Two eggs, bacon, sausage</string>
+    <int name="price" value="7" />
+</map>
